@@ -21,7 +21,7 @@ export default function Contact() {
         height={450}
         style={{ border: 0 }}
         className={styles.mapping}
-        allowFullScreen=""
+        allowFullScreen
         loading="lazy"
         referrerPolicy="no-referrer-when-downgrade"
       ></iframe>
